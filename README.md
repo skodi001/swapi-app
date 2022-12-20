@@ -8,4 +8,4 @@
 
 ### Tech Stacks
 
-`React.js`, `Google Firebase`, `Hooks`, and `Vite.js`.
+`React.js`, `Google Firebase`, and `Hooks`.
